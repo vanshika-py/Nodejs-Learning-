@@ -1,10 +1,8 @@
 
+
 function SumofNum(a,b){
-    return a + b
+   const sum = a + b 
+   console.log(sum)
 }
-
-SumofNum(5,6);
-
-
 
 module.exports = SumofNum;
