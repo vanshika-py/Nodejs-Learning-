@@ -1,10 +1,10 @@
-const obj = require('./Sum.jsx');
+// const obj = require('./Sum.jsx');
 
-var a = 1;
+// var a = 1;
 
-var b = 5;
+// var b = 5;
 
-obj.SumofNum(a,b);
+// obj.SumofNum(a,b);
 
 
 

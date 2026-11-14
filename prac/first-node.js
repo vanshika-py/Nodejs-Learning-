@@ -13,8 +13,8 @@
 
 // server.listen("666");
 
-const myfunc = require('./my-first-mod');
+// const myfunc = require('./my-first-mod');
 
-const avg = myfunc(12, 45, 60);
+// const avg = myfunc(12, 45, 60);
 
-console.log("avg is", avg);
+// console.log("avg is", avg);
